@@ -1,0 +1,47 @@
+.bg-img{
+    background-image: url("../images/emydon1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 2rem;
+    left: 10px;
+}
+.bg-color{
+    background-color: rgb(232, 204, 238);
+}
+.bg-contact-me{
+    background-color: rgb(162, 61, 230);
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.text-sm{
+    font-size: 10px;
+}
+.bg-active{
+    background-color: rgb(162, 61, 230) !important;
+}
+.show-image{
+    /* height: 50vh; */
+}
+
+.em{
+    background-color:rgb(162, 61, 230) ;
+    color: white;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+/* .emydon{
+    margin-right: -5px;
+    padding: 5px;
+} */
+.contact-image{
+    background-image: url("../images/emydon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    border-radius: 10rem;
+    left: 10px;
+}
